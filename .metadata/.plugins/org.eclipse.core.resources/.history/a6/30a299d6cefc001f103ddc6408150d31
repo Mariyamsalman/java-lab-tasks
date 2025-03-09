@@ -1,0 +1,27 @@
+package labtasks2;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 book a=new book();
+	        a.issueBook();
+	        a.returnBook();
+	        a.showStatus();
+	        int a,b,c;
+	        System.out.println("Try programiz.pro");
+	         a=123;
+	         b=456;
+	         PasswordManager object1=new PasswordManager();
+	         object1.changePassword(a,b);
+	         object1.validatePassword(b);
+	         lightbulb object1=new lightbulb();
+	         object1.showstatus();
+	         Temperatureconverter object1=new Temperatureconverter();
+	         object1.setCelsius(3.23);
+	          object1.setfarenheit(4.23);
+	          object1.showtemperature();
+	          
+	}
+
+}
