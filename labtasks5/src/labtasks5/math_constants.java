@@ -1,5 +1,5 @@
 package labtasks5;
 
-public class math_constants {
-
+final public class math_constants {
+final double E=2.718;
 }

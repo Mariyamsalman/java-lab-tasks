@@ -1,0 +1,2 @@
+module labtasks6 {
+}
