@@ -1,0 +1,16 @@
+Name :Maryam M.salman 
+ id:F24BSE017 
+ department:software engineering
+
+Name: Omaima Sarfaraz 
+ id:F24BSE001 
+ department:software engineering
+
+Name :Manal Bawli Battakh
+ id:1
+ department:
+
+Name :Bakhtawar bawli battakh
+ id:2
+ department:cs
+
