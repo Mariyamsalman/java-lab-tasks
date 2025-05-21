@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/LinkedList.Abstractionlab/src/LinkedList/Abstractionlab/Main.java"/>
+        <listEntry value="/ThreadLab/src/ThreadLab/Main.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="LinkedList.Abstractionlab.Main"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="LinkedList.Abstractionlab"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="LinkedList.Abstractionlab"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ThreadLab.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="ThreadLab"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ThreadLab"/>
 </launchConfiguration>
